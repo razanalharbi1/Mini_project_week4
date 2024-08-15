@@ -1,1 +1,3 @@
 # Mini_project_week4
+Finding parking in busy cities is a daily struggle for many drivers, leading to wasted time, increased traffic congestion, and unnecessary stress. With the rise of smart city technologies, there's an opportunity to address this issue using machine learning.
+This project aims to develop a predictive model that accurately forecasts parking availability in real-time. By leveraging data such as historical parking trends, traffic patterns, and local events, the model will guide drivers to open spots more efficiently. The ultimate goal is to reduce traffic congestion and improve the overall driving experience in urban areas.
